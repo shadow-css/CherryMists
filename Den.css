@@ -478,24 +478,6 @@ color: #632f4f !important; }
 .right_odd {
 background: none !important; }
 
-/* CUSTOM KING TITLE
-Codes made by Pandora #144118  
-Codes may be edited, used in commissions or for personal use
-Please do not remove credit
-
-note: you can use both, one, or the other.
-if you don't want to use them, just delete this section.
-just don't use apostrophes (') in the actual text, that messes with the code
-*/
- 
-/* CUSTOM KING TITLE - AFTER 
-If I want to make the text before the King’s name just change: div::before */
- 
-#about > tbody > tr:nth-child(1) > td > div::before {
-    content:'The Everbound,';
-    font-size:17px;  
-}
-
 /* DEN ICON IMAGE REPLACEMENTS - Changes icons for Message/Gift/Trade/Wishlist/ViewTrades etc. */
 
 
